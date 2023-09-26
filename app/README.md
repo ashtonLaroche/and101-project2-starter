@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/TncGaPl.gif' title='Video Demo' width='' alt='Video Demo' />
+https://imgur.com/a/TncGaPl
 
 GIF created with **your chosen GIF tool**
 
